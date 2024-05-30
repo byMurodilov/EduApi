@@ -13,6 +13,7 @@ I have been learning programming languages for 2-3 years. These include python, 
 * 🧠  I'm learning Python, Django, HTML, CSS, JS
 * 🤝  I'm open to collaborating on other drone projects!
 * ⚡️  My favorite car is BMW M5 E60 V10 HAMMAN
+* 🏎️  You can see my project only this chanel: (https://t.me/learnwithjack)
 
 ### Skills
 
